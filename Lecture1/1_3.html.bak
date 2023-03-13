@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang ="en" dir = "ltr">
+<head>
+<meta charset = "utf-8">
+
+<title> Calculation </title>
+
+</head>
+ <body>
+ 
+ Hello
+ 
+ <script>
+	
+	var a;
+	var b;
+	a = 3;
+	b = 4;
+	var c;
+	c = a+b;
+	alert(c);
+	//document.write("The result is ");
+	//document.write(c);
+	
+	document.write("<h1>Hello</h1>");
+	document.write("I am a student.");
+</script>
+        
+ </body>
+</html>

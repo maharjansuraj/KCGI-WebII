@@ -1,0 +1,39 @@
+<!doctype HTML>
+<html lang="eng" dir="ltr">
+	<head>
+		<meta charset="utf-8">
+		<Title>Javascript</Title>
+		<script type="text/javascript">
+		"use strict";
+		
+		var name =prompt("Enter your name", "Name");
+		
+		</script>
+		
+	</head>
+	<body bgcolor="lightgreen">
+		<script type="text/javascript">
+		document.write("<h2>Hello " + name + "</h2>");
+		
+		<!-- Begin Hiding JavaScript-->
+		
+		friends = new Array()
+		friends[0] = "Ananth"
+		friends[1] = "Cedric"
+		friends[2] = "Ketan"
+		friends[3] = "Rohan"
+		//friends[4] = "Leela";
+		
+		document.write(friends[0] +"<br>");
+		document.write(friends[1] +"<br>");
+		document.write(friends[2] +"<br>");
+		document.write(friends[3] +"<br>");
+		document.write(friends[4] +"<br>");
+		join_crit = friends.join();
+		document.write(join_crit);
+		
+		//End hiding JavaScript-->
+		
+		</script>
+	</body>
+</html>

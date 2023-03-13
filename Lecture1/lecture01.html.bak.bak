@@ -1,0 +1,19 @@
+<!doctype HTML>
+<html lang="eng" dir="ltr">
+	<head>
+		<meta charset="utf-8">
+		<Title>Javascript</Title>
+		<script type="text/javascript">
+		"use strict";
+		
+		document.write("hello");
+		document.write("2+1");
+		document.write(2+1);
+		
+		</script>
+		
+	</head>
+	<body>
+		Javascript practice.
+	</body>
+</html>
